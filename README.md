@@ -12,7 +12,7 @@ I'm <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engine
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-* Experiences in `Android` development.
+* Experienced in `Android` development.
 * Also interested in `iOS` development.
 
 ### :octocat: Open Source
