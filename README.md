@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=alvayonara&show_icons=true&count_private=true&theme=vue&hide=issues,contribs&show_icons=true" alt="alvayonara" />
 
-I'm a <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engineer. Graduated (**S.Kom. in Teknik Informatika**) from [Universitas Brawijaya](https://ub.ac.id/) in 2020. You can **find me on [LinkedIn](https://www.linkedin.com/in/alva-yonara-puramandya/)**  👋
+I'm <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engineer. Graduated (**S.Kom. in Teknik Informatika**) from [Universitas Brawijaya](https://ub.ac.id/) in 2020. You can **find me on [LinkedIn](https://www.linkedin.com/in/alva-yonara-puramandya/)**  👋
 
 ### :gear: Language and Tools 
 
