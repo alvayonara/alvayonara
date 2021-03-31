@@ -22,6 +22,9 @@ I'm <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engine
 <a href="https://github.com/alvayonara/MealsFood">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=MealsFood" />
 </a>
+<a href="https://github.com/alvayonara/OpenWeatherApps">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=OpenWeatherApps" />
+</a>
 <a href="https://github.com/alvayonara/MovieProject">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=MovieProject" />
 </a>
