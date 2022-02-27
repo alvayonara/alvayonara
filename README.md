@@ -21,12 +21,12 @@ I'm <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engine
 <a href="https://github.com/alvayonara/MealsFood">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=MealsFood" />
 </a>
+<a href="https://github.com/alvayonara/OutSched">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=OutSched" />
+</a>
 <a href="https://github.com/alvayonara/GitHub-Apps">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=GitHub-Apps" />
 </a>
 <a href="https://github.com/alvayonara/OpenWeatherApps">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=OpenWeatherApps" />
-</a>
-<a href="https://github.com/alvayonara/OutSched">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=OutSched" />
 </a>
