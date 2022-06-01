@@ -1,4 +1,4 @@
-## Hi there <img alt="GIF" src="https://github.com/alvayonara/alvayonara/blob/main/android.gif" width="40px" />
+## Hi there!
 
 ![](https://komarev.com/ghpvc/?username=alvayonara)
 
