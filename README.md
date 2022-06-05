@@ -21,14 +21,14 @@ I'm <a href="https://alvayonara.com/">Alva Yonara Puramandya</a>. Android Engine
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/alvayonara) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/alvayonara/MealsFood)
 
+<a href="https://github.com/alvayonara/mamanga-android">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=mamanga-android" />
+</a>
 <a href="https://github.com/alvayonara/MealsFood">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=MealsFood" />
 </a>
 <a href="https://github.com/alvayonara/OutSched">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=OutSched" />
-</a>
-<a href="https://github.com/alvayonara/GitHub-Apps">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=GitHub-Apps" />
 </a>
 <a href="https://github.com/alvayonara/GitHubSearch">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=alvayonara&repo=GitHubSearch" />
