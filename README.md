@@ -1,12 +1,12 @@
 # Hi there!
 
-## Android Engineer | Backend Engineer
+## Android Engineer
 
 ![](https://komarev.com/ghpvc/?username=alvayonara)
 
 <img src="https://github-readme-stats.vercel.app/api?username=alvayonara&show_icons=true&count_private=true&theme=vue&show_icons=true" alt="alvayonara" />
 
-Welcome to my GitHub profile! I'm passionate software engineer specializing in Android and Backend engineering. Currently working at Gojek, leading technology company, where I bring my expertise to deliver impactful solutions and contribute to the success of the organization.
+Welcome to my GitHub profile! I'm passionate software engineer specializing in Android Engineering. Currently working at Gojek, leading technology company, where I bring my expertise to deliver impactful solutions and contribute to the success of the organization.
 
 ### Skills
 
