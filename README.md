@@ -1,17 +1,15 @@
 # Hi there!
 
-## Software Engineer
-
 ![](https://komarev.com/ghpvc/?username=alvayonara)
 
 <img src="https://github-readme-stats.vercel.app/api?username=alvayonara&show_icons=true&count_private=true&theme=vue&show_icons=true" alt="alvayonara" />
 
-Welcome to my GitHub profile! I'm a software engineer, currently focused on Backend development. I'm working at GoTo Financial - Gojek, leading technology company, where I bring my expertise to deliver impactful solutions and contribute to the success of the organization.
+Alva worked as Software Engineer with ±5 years of experience in building scalable Backend and Android. Alva is currently working at GoTo Financial, Indonesia's leading platform for the digital economy. Alva's goal is to become a well-rounded and versatile engineer, delivering high-quality solutions that meet both end-users and clients needs.
 
 ### Skills
 
 - **Android**: Kotlin, Java, Android SDK, MVVM, RxJava, Retrofit, Room, Dagger, Modularization, Unit Testing
-- **Backend**: Java, Spring Boot, RESTful APIs, PostgreSQL, MongoDB, MySQL, Apache Kafka, RabbitMQ
+- **Backend**: Java, Kotlin, Spring Boot, RESTful APIs, PostgreSQL, MongoDB, MySQL, Apache Kafka, RabbitMQ, Cron Job, Unit Testing
 - **Other Languages**: Dart
 - **Tools & Technologies**: Git, Gradle, Maven, JUnit, Firebase, AWS, GCP, Docker, Kubernetes
 
