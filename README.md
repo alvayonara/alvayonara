@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=alvayonara)
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvayonara&show_icons=true&count_private=true&theme=vue&show_icons=true" alt="alvayonara" />
-
 Alva worked as Software Engineer with ±5 years of experience in building scalable Backend and Android. Alva is currently working at GoTo Financial, Indonesia's leading platform for the digital economy. Alva's goal is to become a well-rounded and versatile engineer, delivering high-quality solutions that meet both end-users and clients needs.
 
 ### Skills
