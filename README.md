@@ -10,7 +10,6 @@ Alva worked as Software Engineer with ±5 years of experience in building scalab
 
 - **Android**: Kotlin, Java, Android SDK, MVVM, RxJava, Retrofit, Room, Dagger, Modularization, Unit Testing
 - **Backend**: Java, Kotlin, Spring Boot, RESTful APIs, PostgreSQL, MongoDB, MySQL, Apache Kafka, RabbitMQ, Cron Job, Unit Testing
-- **Other Languages**: Dart
 - **Tools & Technologies**: Git, Gradle, Maven, JUnit, Firebase, AWS, GCP, Docker, Kubernetes
 
 ### :octocat: Open Source
@@ -19,6 +18,6 @@ Alva worked as Software Engineer with ±5 years of experience in building scalab
 
 ### Connect with Me
 
-I'm always open to exciting opportunities and collaborations. Feel free to reach out to me via email at alvayonara@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/alva-yonara-puramandya/).
+I'm always open to exciting opportunities and collaborations. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alva-yonara-puramandya/).
 
 Let's build amazing software together! 😄
